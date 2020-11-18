@@ -1,0 +1,155 @@
+h4{
+	color: black;
+}
+#Title{
+	background-color: #86c232;
+	color: white;
+	padding: 7% 15%
+}
+.begin{
+	padding-top: 5%;
+}
+.head{
+	font-family: "Permanent Marker";
+	font-size: 3rem;
+	line-height: 1.5;
+	color: #0b0c10;
+}
+#Descriptn{
+	font-family: "Advent Pro";
+	font-size: 2rem;
+	line-height: 1.5;
+}
+.container-fluid{
+	padding: 3% 15%;
+}
+#lego{
+	color:white;
+	background-color:#0b0c10;
+}
+#lego:hover{
+	background-color:white;
+	color: #86c232;
+}
+
+
+#legos{
+	color:#86c232;
+	background-color:#0b0c10;
+}
+#legos:hover{
+	background-color:#86c232;
+	color:#0b0c10;
+}
+
+#nave {
+	font-family: "Ubuntu";
+	font-size: 1rem;
+	font-weight: bold;
+}
+#navy{
+	margin: 0 18px;
+	/*padding: 0 0 4.5rem;*/ 
+	background-color: #86c232;
+}
+#item{
+	padding: 0 18px;
+
+}
+.link{
+
+	font-size: 1.2rem;
+	font-family: "Montserrat-Light";
+}
+
+.Title-image{
+	width: 358px;
+	height: 301px;
+	
+}
+
+
+
+
+#play{
+	padding: 5%;
+}
+
+#Features{
+	padding: 7% 15%;
+	text-align: center;
+	
+
+}
+
+.icon{
+	color: #86c232;
+	margin-bottom: 1rem;
+}
+.icon:hover{
+	color: black;
+}
+.ste{
+	width: 330px;
+	height: 301px;
+}
+
+.help{
+	text-align: center;
+}
+.push{
+	text-align: center;
+}
+
+
+#hospital{
+	background-color: #86c232;
+	color: white;
+	line-height: 1.5;
+	margin-bottom: 50px;
+	padding: 7% 15%;
+	/*text-align: center;*/
+}
+#kora{
+	background-color:  white;
+	color: #86c232;
+	line-height: 1.5;
+	/*font-size: 1.5rem;*/
+	margin-bottom: 50px;
+	padding: 7% 15%;
+
+	/*text-align: center;*/
+}
+#the{
+	background-color: #86c232;
+	color: white;
+	line-height: 1.5;
+	margin-bottom: 50px;
+	padding: 7% 15%;
+
+	/*text-align: center;*/
+}
+#gbu{
+	background-color:white;
+	color: #86c232;
+	line-height: 1.5;
+	margin-bottom: 50px;
+	padding: 7% 15%;
+
+	/*text-align: center;*/
+}
+.carousel-inner{
+	padding: 7% 15%;
+}
+.emma{
+	 box-shadow: 5px 10px black; background-color: white;color: white;
+}
+#Realest{
+	background-color:  white;
+}
+.first{
+	background-color: #86c232;
+}
+.second{
+	background-color: black;
+}
